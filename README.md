@@ -7,10 +7,10 @@ Type the following on your terminal:
 
 
 #Group Members
-Amado, Redelyn
-Banzon, Liezl
-Ferrer, Anne
-Esguerra, Merwin
-Morales, Rhyan
-Odviar, Junella
-Wiedmier, Jennaica
+Amado, Redelyn /
+Banzon, Liezl /
+Ferrer, Anne /
+Esguerra, Merwin /
+Morales, Rhyan /
+Odviar, Junella /
+Wiedmier, Jennaica /
