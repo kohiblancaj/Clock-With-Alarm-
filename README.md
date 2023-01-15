@@ -1,4 +1,4 @@
-# Clock-With-Alarm-
+# Clock-With-Alarm
 HDL Project  Type the following on your terminal:  
 (1) iverilog -o Testbench.vvp Testbench.v  
 (2) vvp Testbench.vvp  
